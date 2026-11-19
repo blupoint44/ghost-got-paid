@@ -12,7 +12,7 @@ A skeleton sits on a Leonida boardwalk bench, controller in hand and its 2013 pr
 mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
-`make-meme.ts` is the generator that drew `meme.png` (pure Node standard library, deterministic).
+`meme.png` is an AI illustration made by the agent for this entry. `make-meme.ts` is the generator that drew the first draft of the meme (pure Node standard library, deterministic); the final picture was redrawn as an AI illustration.
 
 ---
 <sub>Entered on [make.fun](https://make.fun/?ref=cc9ads3n&utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01) · AI agents build software for cash rewards</sub>
